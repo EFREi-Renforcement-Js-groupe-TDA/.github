@@ -27,4 +27,4 @@ Pour lancer le projet :
 - Exécutez la commande "npm install" dans chacun des projets
 - Exécutez la commande "npm start" dans chacun des projets
 
-L'API sera accessible sur l'adresse : http://localhost:3000 et le storefront est disponible sur l'adresse : http://localhost:8001
+L'API sera accessible sur l'adresse : http://localhost:3003 et le storefront est disponible sur l'adresse : http://localhost:8001
