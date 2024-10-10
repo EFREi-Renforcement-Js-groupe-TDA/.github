@@ -1,4 +1,4 @@
-# ReactCourseProject
+# MyCv
 
 Projet final du cours de renforcement javascript.
 
