@@ -10,7 +10,7 @@ Groupe :
 ## Contexte
 
 Le but de ce projet est de créer une application de génération de CV.  
-Nous avons décidé de séparer ceci en deux projets distincts : myCvApi et myCvStoreFront.
+Nous avons décidé de séparer ceci en deux projets distincts : MyCvApi et MyCvStoreFront.
 
 ## Env
 
@@ -19,10 +19,10 @@ Nous avons décidé de séparer ceci en deux projets distincts : myCvApi et myCv
 - Mongodb docker : [lien](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-community-with-docker/#std-label-docker-mongodb-community-install)
 
 ## Setup
-Si vous utilisez un setup de mongodb different, modifier les variables d'environnement dans le fichier .env.local du projet myCvApi.
+Si vous utilisez un setup de mongodb different, modifier les variables d'environnement dans le fichier .env.local du projet MyCvApi.
 
 Pour lancer le projet : 
-- Clonez myCvApi et myCvStoreFront
+- Clonez les repository MyCvApi et MyCvStoreFront (disponibles sur la page de l'organisation ([lien](https://github.com/EFREi-Renforcement-Js-groupe-TDA/))
 - Assurez-vous que mongodb est lancé
 - Exécutez la commande "npm install" dans chacun des projets
 - Exécutez la commande "npm start" dans chacun des projets
