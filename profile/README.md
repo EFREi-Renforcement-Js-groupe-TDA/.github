@@ -7,11 +7,6 @@ Groupe :
 - David W. (niceley)
 - Antoine Huchard
 
-## Contexte
-
-Le but de ce projet est de créer une application de génération de CV.  
-Nous avons décidé de séparer ceci en deux projets distincts : MyCvApi et MyCvStoreFront.
-
 ## Env
 
 - Node version : 20.13.1  
@@ -28,3 +23,6 @@ Pour lancer le projet :
 - Exécutez la commande "npm start" dans chacun des projets
 
 L'API sera accessible sur l'adresse : http://localhost:3003 et le storefront est disponible sur l'adresse : http://localhost:8001
+
+## Commits
+Les commits doivent impérativement être fait en ligne de commande (ne pas utiliser l'intrégration git de vsc/jetbrains) pour que husky puisse effectuer les pre-commit (prettier & eslint) correctement.
