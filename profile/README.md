@@ -7,6 +7,10 @@ Groupe :
 - David W. (niceley)
 - Antoine Huchard
 
+## Demo
+
+La version de démonstration est disponible en ligne : https://mycvstorefront-tda.netlify.app/ (La démo en ligne sera disponible jusqu'au 19/11/2024)
+
 ## Env
 
 - Node version : 20.13.1  
