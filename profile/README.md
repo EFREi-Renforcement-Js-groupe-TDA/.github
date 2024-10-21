@@ -2,7 +2,7 @@
 
 Projet final du cours de renforcement javascript.
 
-Groupe : 
+Groupe 8 : 
 - Thomas L. (Orden14)
 - David W. (niceley)
 - Antoine Huchard
